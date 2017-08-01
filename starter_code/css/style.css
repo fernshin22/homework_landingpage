@@ -225,7 +225,7 @@ body#body-blog {
 
 	display: grid;
 	grid-template-rows: 150px 1100px 140px;
-	grid-template-columns: 300px 600px 300px;
+	grid-template-columns: 25% 50% 25%px;
 	grid-template-areas: "a a a"
 						 "b c d"
 						 "e e e";
